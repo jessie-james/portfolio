@@ -2,6 +2,7 @@
     color:rgba(0, 0, 0, 0.609);
     justify-content: space-between;
     font-family: 'Times New Roman', Times, serif;
+   
 }
 .columnOne{
     width:65%;
@@ -43,11 +44,10 @@
 }
 .columnOne-sections{
     margin: 10px 0px;
-    
-
 }
 .resume-header {
-    color:rgb(0, 96, 151)
+    color:rgb(0, 96, 151);
+    padding:30px 0 10px 0;
 }
 .project-link{
     color: rgba(0, 0, 0, 0.548);

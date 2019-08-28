@@ -9,14 +9,14 @@ const Resume = () => {
                 <h1>Jessie James<span>FullStack Web Developer</span></h1>
 
             <div className="columnOne-sections">
-                <h3 className="resume-header"> WEB DEVELOPMENT WORK:</h3>
+                <h2 className="resume-header"> WEB DEVELOPMENT WORK:</h2>
 
             <div className="web-dev-section">
-                        <h3 className="prj-title">A PROJECT-<span className="project-link"> a project link url</span></h3>
+                        <h3 className="prj-title">Strong Xchange<span className="project-link"> a project link url</span></h3>
                 <ul className="skills-list">
-                    <li>A database with all CRUD request to input and store data. </li>
+                    <li>Currancy conversion website that allowsthe user to  also quickly determian the strenght of one currancy compared to another. Using the  ... data base and  creating a Data base to pull the information.</li>
                 </ul>
-                <p className="built-with">Built with: JavaScript, React, Node.js, Axios, MongoDB, Express, Mongoose, HTML, CSS</p>
+                <p className="built-with">Built with: JavaScript, React, , Axios, HTML, CSS</p>
             </div>
 
             <div className="web-dev-section">
@@ -38,31 +38,30 @@ const Resume = () => {
 
             <div className="columnOne-sections">
                 
-            <h3 className="resume-header"> PROFESSIONAL EXPERIENCE</h3>
+            <h2 className="resume-header"> PROFESSIONAL EXPERIENCE</h2>
             <div className="work-experiance-section">
-                        <h2 className="company-title">TELOS U, LLC Orem, UT <span>[02- 2017—07 -2019]</span></h2>
+                        <h3 className="company-title">TELOS U, LLC Orem, UT <span>[02- 2017—07 -2019]</span></h3>
                     <h5 className="job-title">Team Lead <span>[02-2018 - 07-2019]</span></h5>
                     <ul className="skills-list">
-                        <li>Oversaw two separate teams and trained various  number employees for each role at Telos as well as oversaw analytics and student reporting.</li>
-                        <li>Ran weekly treatment meetings for students.</li>
+                        <li>Oversaw two separate teams and trained various 40+ employees for each role  while at Telos as well as oversaw analytics and student reporting.</li>
+                        {/* <li>Ran weekly treatment meetings for students.</li> */}
                         <li>Cultivated proactive ownership and team oriented culture through bi-weekly supervisor meetings with staff to set specific goals </li>
-                        <li>Created and implemented company wide processes and developed new systems with Google Blueprints and Trello included: personal technology agreement protocols, student progress report guidelines, customized staff training platforms, building safety and maintenance plans.</li>
+                        <li> Developed new data driven student progress guidelines as well as created and implemented new company wide new systems with Google Blueprints and Trello included: personal technology agreement protocols, customized staff training platforms, building safety and maintenance plans.</li>
                     </ul>
                     <h5 className="job-title">Tech Committee Chair<span> [05-2017 - 07 - 2019]</span></h5>
                     <ul className="skills-list">
                         <li>Assessed and presented various software platforms to the company board for phone and other applications options.</li>
-                        <li>Work with our Director of Discovery Space Center to create a new system for monitoring client communication. </li>
-                        <li>Oversaw MMGuardian phone management software as well as managed and maintained Verizon account.</li>
+                        <li>Work with the Director of Discovery Space Center to create a new system for monitoring client communication. </li>
+                        {/* <li>Oversaw MMGuardian phone management software as well as managed and maintained Verizon account.</li> */}
                     </ul>
                     <h5 className="job-title">Campus Supervisor/ Residential Advisor<span>[02-2017 - 02-2018]</span></h5>
                     <ul className="skills-list">
                         <li>Received Campus Supervisor of the Year Award</li>
-                        <li>Developed new data driven student progress guidelines and templates with 3 team members used Google DataStudio, Sheets, and Trello which became company wide standard. </li>
                         <li>Oversaw activity planning as the Activities Committee Chairmen.</li>
                     </ul>
             </div>
             <div className="work-experiance-section">
-                        <h2 className="company-title">Provo Canyon School, Springville, UT<span>[05-2016 — 02-2017]</span></h2>
+                        <h3 className="company-title">Provo Canyon School, Springville, UT<span>[05-2016 — 02-2017]</span></h3>
                     <h5 className="job-title">Unit  Lead<span>[11-2016 - 02-2017] </span></h5>
                     <ul className="skills-list">
                         <li>Oversaw the Stabilization Unit  including 3  staff  and 16 students</li>
