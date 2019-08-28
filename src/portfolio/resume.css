@@ -1,6 +1,7 @@
 .resume-container{
     color:rgba(0, 0, 0, 0.609);
     justify-content: space-between;
+    font-family: 'Times New Roman', Times, serif;
 }
 .columnOne{
     width:65%;
@@ -9,13 +10,16 @@
 .columnTwo {
     width:25%;
     margin:120px 10px 0 0;
+    line-height: 18pt;
 
 }
 .web-dev-section{
     margin: 10px 0;
+    line-height: 20pt;
 }
 .work-experiance-section{
     margin:10px 0;
+    line-height: 20pt;
 }
 .company-title>span {
     font-style: italic;
@@ -39,6 +43,7 @@
 }
 .columnOne-sections{
     margin: 10px 0px;
+    
 
 }
 .resume-header {
