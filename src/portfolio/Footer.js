@@ -1,8 +1,8 @@
 import React from 'react'
+
 const Footer =()=>{
     return (
-        <div>
-            <h1>footer</h1>
+        <div className="port-footer">
             <p>thanks for reading</p>
             <p>contact me at Email:</p>
             <ul>

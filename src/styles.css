@@ -1,12 +1,121 @@
  *{
     margin:0;
 }
-.nav-bar{
-     display:flex; 
-    justify-content: space-between; 
 
+.port-nav-bar{
+     display:flex; 
+    background-color:  rgba(247, 210, 162, 0.447);
+    justify-content: space-between; 
+    height: 70px;
+}
+.main-app-container {
+    background-color: rgb(249, 227, 199);
+    color:rgba(35, 99, 211, 0.844);  
+}
+
+.home-name-container{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    background-color:rgba(247, 179, 91, 0.31)
+}
+.home-name-container >h3{
+    width: 300px;
+    margin: 20px;
+}
+.view-work-button{
+    border:solid 1px rgb(247, 179, 91);
+    border-radius: 5px;
+    width:100px;
+}
+.project-container{
+    display: flex;
+    flex-direction: column;
+}
+.project-container >:nth-child(even){
+    flex-direction: row-reverse;
+}
+.project{
+    display:flex;
+    height: 450px;
+    justify-content: space-between;
+    margin:20px;
+}
+
+.project-brief-container {
+    display:flex;
+    flex-direction:column;
+    /* border: solid 3px rgb(199, 75, 75); */
+    justify-content: center;
+    width:60%;
+}
+.project-brief-container >h3 {
+    text-align: center;
+    font-size: 30pt;
+    margin:10px;
+}
+.project-brief-container > p {
+    margin:0px 30px 10px;
+    line-height: 20pt; 
+}
+.project-img-container{
+    /* border: solid 3px rgb(107, 228, 111); */
+    width:40%; 
+    display:flex;
+}
+.img-web{
+    display:flex;
+    margin:10px;
+    justify-content: flex-end;
+    justify-items:flex-end;
+    align-content: flex-end;
+    align-items:flex-end;
+    height: 90%;
+    width:90%;
+    background-image: url(./imgs/xchangewebpage.png);
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px; 
+}
+
+.img-mobile{
+    height: 85%;
+    width:45%;
+    margin: -60px -30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px; 
+}
+
+.port-footer{
+    display:flex;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: rgb(247, 210, 162);
 }
 .nav-list{
     list-style: none;
     display:flex;
+    justify-content: space-evenly;
+    margin:5px;
 } 
+.nav-list-item{
+    margin:5px;
+}
+.projects{
+     width:33%;
+     height: 33%;
+     border:black solid 5px;
+}
+.resume-container{
+    display:flex;
+    height:95%;
+    width:80%;
+    margin:  10px auto;
+    background-color:white;
+    padding:20px;
+    box-shadow: 5px 5px 20px black;
+}

@@ -1,18 +1,12 @@
 import React from 'react'
-import Xchange from'../xchange/body/Xchangeapp.js'
+import HomeName from './HomeName.js'
+import ProjectContainer from './ProjectsContainer'
+import Resume from './Resume'
+// import Xchange from'../xchange/body/Xchangeapp.js'
 const Body = () => {
-    return (<div>
-        <h1>Body/Name</h1>
-        <ul>
-            <li>links</li>
-            <li>about me</li>
-            <li>projects
-                <Xchange/>
-            </li>
-            <li>experiance</li>
-            <li>skills</li>
-            
-        </ul>
+    return (<div className="port-body">
+        <HomeName />
+        <Resume/ >
     </div>)
 }
 export default Body

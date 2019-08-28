@@ -19,9 +19,9 @@ const Xchangeapp = () => {
     <div className="app-container">
         <Header />
         <Switch>
-            <Route exact path='/' component={Home} />
-            <Route path='/about' component={About} />
-            <Route path='/list' component={SavedList}/>
+            <Route exact path='/xchange/home' component={Home} />
+            <Route path='/xchange/about' component={About} />
+            <Route path='/xchange/list' component={SavedList}/>
         </Switch>
         <Footer />
             </div>
