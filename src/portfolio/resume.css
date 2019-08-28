@@ -1,0 +1,79 @@
+.resume-container{
+    color:rgba(0, 0, 0, 0.609);
+    justify-content: space-between;
+}
+.columnOne{
+    width:65%;
+    margin: 0 0 0 10px;
+}
+.columnTwo {
+    width:25%;
+    margin:120px 10px 0 0;
+
+}
+.web-dev-section{
+    margin: 10px 0;
+}
+.work-experiance-section{
+    margin:10px 0;
+}
+.company-title>span {
+    font-style: italic;
+
+}
+.job-title {
+    margin: 5px;
+    font-size:12pt;
+}
+.job-title >span {
+    font-style: italic;
+}
+.columnOne>h1 {
+    font-size: 35pt;
+    color:rgba(0, 0, 0, 0.774);
+    margin: 35px 20px;
+}
+.columnOne > h1 > span {
+    font-size:15pt;
+    color: rgba(0, 0, 0, 0.548);
+}
+.columnOne-sections{
+    margin: 10px 0px;
+
+}
+.resume-header {
+    color:rgb(0, 96, 151)
+}
+.project-link{
+    color: rgba(0, 0, 0, 0.548);
+
+}
+.skills-list{
+    margin:0px 0px 0px 40px;
+}
+.column-two-list{
+    list-style: none;
+    margin: 0 0 0 25px;
+    color:rgba(0, 0, 0, 0.609);
+}
+.column-two-list >span {
+    color:rgba(0, 0, 0, 0.87);
+    font-style:bold;
+    font-family: bold;
+
+}
+.bold-skill{
+    color:rgba(0, 0, 0, 0.87);
+    font-style:bold;
+    
+}
+.bold-skill>span{
+    color:rgba(0, 0, 0, 0.609);
+
+}
+.columnTwo-sections{
+    margin: 10px 0;
+}
+.resume-header{
+    margin: 5px;
+}

@@ -1,10 +1,16 @@
 import React from 'react'
 const Contact = () => {
-    return (<div>
+    return (<div className="contact-container port-body">
+
         <form>
+            <lable>Name:</lable>
             <input type='text' placeholder="name"></input>
+            <lable>Email:</lable>
             <input type='text' placeholder="email"></input>
-            <input type='text' placeholder="message"></input>
-        </form>Create a contact form</div>)
+            <lable>Message:</lable>
+            <input type='text' className="message"></input>
+            <button>Submit</button>
+        </form>
+    </div>)
 }
  export default Contact

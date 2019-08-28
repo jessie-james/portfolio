@@ -1,16 +1,18 @@
 import React from 'react'
+import './resume.css'
 
 const Resume = () => {
+
     return (
         <div className="resume-container">
             <div className="columnOne">
-            <h1>Jessie James</h1><h3>FullStack Web Developer</h3>
+                <h1>Jessie James<span>FullStack Web Developer</span></h1>
 
             <div className="columnOne-sections">
                 <h3 className="resume-header"> WEB DEVELOPMENT WORK:</h3>
 
             <div className="web-dev-section">
-                <h3 className="prj-title">A PROJECT-</h3><p className="project-link"> a project link url</p>
+                        <h3 className="prj-title">A PROJECT-<span className="project-link"> a project link url</span></h3>
                 <ul className="skills-list">
                     <li>A database with all CRUD request to input and store data. </li>
                 </ul>
@@ -18,7 +20,7 @@ const Resume = () => {
             </div>
 
             <div className="web-dev-section">
-                <h3 className="prj-title">ANOTHER PROJECT -</h3> <p className="project-link"> a project link url</p>
+                        <h3 className="prj-title">ANOTHER PROJECT - <span className="project-link"> a project link url</span></h3> 
                 <ul className="skills-list">
                     <li>A database with all CRUD request to input and store data. I added token authentication and other functionality, enhanced responsiveness, expanded product offerings, etc.</li>
                 </ul>
@@ -26,7 +28,7 @@ const Resume = () => {
             </div>
                 
             <div className="web-dev-section">
-                <h3 className="prj-title">ANOTHER PROJECT -</h3> <p className="project-link"> a project link url</p>
+                        <h3 className="prj-title">ANOTHER PROJECT - <span className="project-link"> a project link url</span></h3> 
                 <ul className="skills-list">
                     <li>A database with all CRUD request to input and store data. I added token authentication and other functionality, enhanced responsiveness, expanded product offerings, etc.</li>
                 </ul>
@@ -38,7 +40,7 @@ const Resume = () => {
                 
             <h3 className="resume-header"> PROFESSIONAL EXPERIENCE</h3>
             <div className="work-experiance-section">
-                    <h2 className="company-title">TELOS U, LLC <span>Orem, UT [02- 2017—07 -2019]</span></h2>
+                        <h2 className="company-title">TELOS U, LLC Orem, UT <span>[02- 2017—07 -2019]</span></h2>
                     <h5 className="job-title">Team Lead <span>[02-2018 - 07-2019]</span></h5>
                     <ul className="skills-list">
                         <li>Oversaw two separate teams and trained various  number employees for each role at Telos as well as oversaw analytics and student reporting.</li>
@@ -60,7 +62,7 @@ const Resume = () => {
                     </ul>
             </div>
             <div className="work-experiance-section">
-                    <h2 className="company-title">Provo Canyon School, Inc.<span>Springville, UT[05-2016—02-2017]</span></h2>
+                        <h2 className="company-title">Provo Canyon School, Springville, UT<span>[05-2016 — 02-2017]</span></h2>
                     <h5 className="job-title">Unit  Lead<span>[11-2016 - 02-2017] </span></h5>
                     <ul className="skills-list">
                         <li>Oversaw the Stabilization Unit  including 3  staff  and 16 students</li>
@@ -96,36 +98,36 @@ const Resume = () => {
             <div className="columnTwo-sections">
             <h3 className="resume-header"> SOFT SKILLS: </h3>
             <ul>
-                <li>Verbal and written communication</li>
-                <li> Mediation and Collaboration Self Management </li>
-                <li>Organization</li>
-                <li>Mentoring</li>
-                <li>Constructive Feedback</li>
+                <li className="column-two-list">Verbal and written communication</li>
+                <li className="column-two-list"> Mediation and Collaboration Self Management </li>
+                <li className="column-two-list">Organization</li>
+                <li className="column-two-list">Mentoring</li>
+                <li className="column-two-list">Constructive Feedback</li>
             </ul>
             </div>
 
             <div className="columnTwo-sections">
                 <h3 className="resume-header"> EDUCATION: </h3>
             <ul className="bold-skill" >V School<span>Salt Lake City, UT </span> 
-                <li>Full Stack JavaScript Development, 2019</li>
+                        <li className="column-two-list">Full Stack JavaScript Development, 2019</li>
             </ul>
             <ul className="bold-skill" >Brigham Young University <span>Provo, UT</span> 
-                <li>BA,  History, 2016</li>
+                        <li className="column-two-list">BA,  History, 2016</li>
             </ul>  
             </div>
             <div className="columnTwo-sections">
                 <h3 className="resume-header"> REFERENCES: </h3>
                 <ul>
-                    <li><span>Paul Taylor</span>, former Life skill Director at Telos U</li>
-                    <li>Phone Number:</li>
+                        <li className="column-two-list"><span>Paul Taylor</span>, former Life skill Director at Telos U</li>
+                        <li className="column-two-list">Phone Number:</li>
                 </ul>
                 <ul>
-                    <li><span>Scottie Wilson</span>, former manager/ Student Living Director at Telos U Head </li>
-                    <li>Phone Number:</li>
+                        <li className="column-two-list"><span>Scottie Wilson</span>, former manager/ Student Living Director at Telos U Head </li>
+                        <li className="column-two-list">Phone Number:</li>
                 </ul> 
                 <ul>
-                    <li><span>Paul Taylor</span>, Executive Director at Telos U.</li>
-                    <li>Phone Number: </li>
+                        <li className="column-two-list"><span>Paul Taylor</span>, Executive Director at Telos U.</li>
+                        <li className="column-two-list">Phone Number: </li>
                 </ul>
             </div>
         </div>

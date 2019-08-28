@@ -3,7 +3,7 @@ import ProjectBrief from './ProjectBrief'
 import ProjectImg from './ProjectImg'
 const ProjectsContainer = () => {
     return (
-        <div className="project-container">
+        <div className="project-container port-body">
             <div className="project">
                 <ProjectBrief/>
                 <ProjectImg />
