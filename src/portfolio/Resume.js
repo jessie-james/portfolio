@@ -14,7 +14,7 @@ const Resume = () => {
             <div className="web-dev-section">
                         <h3 className="prj-title">Strong Xchange<span className="project-link"> a project link url</span></h3>
                 <ul className="skills-list">
-                    <li>Currancy conversion website that allowsthe user to  also quickly determian the strenght of one currancy compared to another. Using the  ... data base and  creating a Data base to pull the information.</li>
+                    <li>Currancy conversion website that allows the user to see the rate of coversion and convertated currancy amount while  also quickly determining the strenght  of one currancy compared to another. Using the  ... data base and  creating a Data base to pull the information.</li>
                 </ul>
                 <p className="built-with">Built with: JavaScript, React, , Axios, HTML, CSS</p>
             </div>

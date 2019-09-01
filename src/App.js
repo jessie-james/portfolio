@@ -17,7 +17,6 @@ const App = () => {
             <Route path='/Portfolio' component={ProjectsContainer} />
             <Route path='/Xchange' component={ProjectPage} />
             <Route path='/Contact' component ={Contact}/>
-                {/* /* <Route path='/list' component={Contact} /> */ }
         </Switch>
         <Footer/>
     </div>)

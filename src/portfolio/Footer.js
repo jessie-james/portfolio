@@ -3,12 +3,12 @@ import React from 'react'
 const Footer =()=>{
     return (
         <div className="port-footer">
-            <p className="special-font">thanks for reading</p>
-            <p>contact me at Email:</p>
+            <p className="special-font">Thanks for reading!</p>
+            <p>Contact me via Email: jess.mae.james@gmail.com</p>
             <ul>
-                <li>link github</li>
-                <li>link Linkedin</li>
-                <li>link other network</li>
+                <a href="https://github.com/jessie-james"> GitHub Icon </a>
+                <a href="www.linkedin.com/in/jessie--james"> LinkedIN Icon </a>
+                <a href="https://twitter.com/Jessie_Ma3"> Twitter Icon </a>
             </ul>
         </div>)
 }

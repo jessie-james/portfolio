@@ -56,7 +56,6 @@ const ProjectPage = () => {
             <div className="play-with -it">
                 <Xchange />
             </div>
-            <Link to='/Portfolio'style={portButton}>Profolio</Link>
         </div>
     </div>)
 }
