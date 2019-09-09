@@ -2,24 +2,24 @@
     color:rgba(0, 0, 0, 0.609);
     justify-content: space-between;
     font-family: 'Times New Roman', Times, serif;
-   
+    width:100%;
+    background-color: white;
+    padding: 20px; 
 }
 .columnOne{
-    width:65%;
-    margin: 0 0 0 10px;
+    width:85%;
+    margin: 0 0 0 10px; 
 }
-.columnTwo {
-    width:25%;
-    margin:120px 10px 0 0;
-    line-height: 18pt;
-
+.mobile-span{
+    display:flex;
+    margin:10px 0px;
 }
 .web-dev-section{
     margin: 10px 0;
     line-height: 20pt;
 }
 .work-experiance-section{
-    margin:10px 0;
+    margin:30px 0;
     line-height: 20pt;
 }
 .company-title>span {
@@ -36,7 +36,8 @@
 .columnOne>h1 {
     font-size: 35pt;
     color:rgba(0, 0, 0, 0.774);
-    margin: 35px 20px;
+    text-align: center;
+    /* margin: 35px 20px; */
 }
 .columnOne > h1 > span {
     font-size:15pt;
@@ -44,6 +45,8 @@
 }
 .columnOne-sections{
     margin: 10px 0px;
+    text-align: center;
+     line-height: 18pt;
 }
 .resume-header {
     color:rgb(0, 96, 151);
@@ -55,6 +58,7 @@
 }
 .skills-list{
     margin:0px 0px 0px 40px;
+    text-align: start;
 }
 .column-two-list{
     list-style: none;
@@ -81,4 +85,31 @@
 }
 .resume-header{
     margin: 5px;
+}
+
+@media only screen and (min-width: 600px) {
+    
+    .resume-container {
+        display: flex;
+        height: 80%;
+        width: 65%;
+        margin: 25px auto;
+        background-color: white;
+        padding: 20px;
+        box-shadow: 8px 8px 20px #00000057;
+    }
+    .columnOne {
+        width: 65%;
+        margin: 0 0 0 10px;
+    }
+
+    .columnTwo {
+        width: 25%;
+        margin: 120px 10px 0 0;
+        line-height: 18pt;
+
+    }
+    .columnOne>h1 {
+        margin: 35px 20px;
+    }
 }

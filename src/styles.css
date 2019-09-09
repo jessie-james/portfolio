@@ -14,15 +14,25 @@ monospace; */
 .port-nav-bar{
     display:flex; 
     background-color:rgba(147, 179, 191, 0.733);
-    justify-content: space-between; 
-    height: 50px;
+    justify-content: space-around; 
+    height: 10vh;
     width:100%;
     position: fixed;
     font-family: 'IBM Plex Mono', monospace;
 }
 .port-nav {
     color:#3E8294;
+    /* margin:5px; */
 }
+.nav-list {
+    list-style: none;
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+
+}
+
+
 .main-app-container {
     background-color:#D8E8F2;
     color:rgba(2, 14, 38, 0.671);
@@ -54,7 +64,20 @@ monospace; */
     width:100px;
     margin:30px;
 }
+.about-body {
+    display: flex;
+    font-size: 10pt;
+    width:100%;
+    font-family:'Indie Flower',
+        cursive;
+    flex-direction: column;
+}
 
+.about-container {
+    display: flex;
+    padding: 10px 50px;
+    text-align: center;
+}
 
 .about-text{
     display:flex;
@@ -62,6 +85,7 @@ monospace; */
     /* border: solid 3px rgb(199, 75, 75); */
     justify-content: center;
     width:60%;
+    margin: 0px 5px;
 }
 .about-img{
     width:40%;
@@ -72,22 +96,8 @@ monospace; */
     flex-direction: column;
     margin: 0 0 30px 0;
 }
-.about-container{
-    display:flex;
-    padding:10px 90px;
-    text-align: center;
-}
-.about-body {
-    display:flex;
-    font-size: 10pt;
-    width:100%;
-    font-family: 'Indie Flower',
-    cursive;
-    flex-direction:column;
-    /* align-items: center; */
-    /* text-align: center; */
-    /* height:100%; */
-}
+
+
 .about-body>:nth-child(even) {
     flex-direction: row-reverse;
 }
@@ -149,7 +159,7 @@ monospace; */
 }
 
 .port-footer{
-    height: 250px;
+    height: 30vh;
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -167,30 +177,15 @@ monospace; */
     display: flex;
     list-style: none;
     width:100%;
+    padding:10px;
     justify-content: space-evenly;
 }
-.nav-list{
-    list-style: none;
-    display:flex;
-    justify-content: space-evenly;
-    margin:5px;
-} 
-.nav-list-item{
-    margin:5px;
-}
+
+
 .projects{
      width:33%;
      height: 33%;
      border:black solid 5px;
-}
-.resume-container{
-    display:flex;
-    height:80%;
-    width:65%;
-    margin:  25px auto;
-    background-color:white;
-    padding:20px;
-    box-shadow: 8px 8px 20px #00000057;
 }
 
 .contact-container{
@@ -198,8 +193,6 @@ monospace; */
     width:100%;
     display:flex;
     justify-content: center;
-    
-
 }
 .contact-container>form{
     margin:1%;
@@ -234,4 +227,10 @@ form>button{
 .special-font{
     font-family: 'Indie Flower', cursive;
     font-size:25pt;
+}
+
+@media only screen and (min-width: 600px) {
+    .nav-list{
+        flex-direction: row;
+    }
 }
