@@ -20,6 +20,9 @@ monospace; */
     position: fixed;
     font-family: 'IBM Plex Mono', monospace;
 }
+.port-body{
+    padding: 90px 0px 0px;
+}
 .port-nav {
     color:#3E8294;
     /* margin:5px; */
@@ -29,18 +32,12 @@ monospace; */
     display: flex;
     margin: 10px;
     flex-direction: column;
-
 }
-
 
 .main-app-container {
     background-color:#D8E8F2;
     color:rgba(2, 14, 38, 0.671);
     font-family: 'IBM Plex Mono', monospace;
-}
-
-.port-body{
-    padding:90px 0 0 0; 
 }
 
 .home-name-container{
@@ -68,23 +65,21 @@ monospace; */
     display: flex;
     font-size: 10pt;
     width:100%;
-    font-family:'Indie Flower',
-        cursive;
+    font-family:'Indie Flower',cursive;
     flex-direction: column;
 }
 
 .about-container {
     display: flex;
-    padding: 10px 50px;
+    padding: 30px 20px;
     text-align: center;
+    justify-content: space-evenly;
 }
-
 .about-text{
     display:flex;
     flex-direction:column;
-    /* border: solid 3px rgb(199, 75, 75); */
     justify-content: center;
-    width:60%;
+    width:70%;
     margin: 0px 5px;
 }
 .about-img{
@@ -97,27 +92,26 @@ monospace; */
     margin: 0 0 30px 0;
 }
 
-
 .about-body>:nth-child(even) {
     flex-direction: row-reverse;
 }
 
-.project-container >:nth-child(even){
-    flex-direction: row-reverse;
-}
+
 .project{
     display:flex;
-    height: 450px;
+    flex-direction:column;
+    /* height: 450px; */
     justify-content: space-between;
     margin:20px;
+    
 }
 
 .project-brief-container {
     display:flex;
     flex-direction:column;
-    /* border: solid 3px rgb(199, 75, 75); */
     justify-content: center;
-    width:60%;
+    width:100%;
+   
 }
 .project-brief-container >h3 {
     text-align: center;
@@ -129,8 +123,8 @@ monospace; */
     line-height: 20pt; 
 }
 .project-img-container{
-    /* border: solid 3px rgb(107, 228, 111); */
-    width:40%; 
+    width:95%; 
+    height: 350px;
     display:flex;
 }
 .img-web{
@@ -166,7 +160,6 @@ monospace; */
     align-content: center;
     align-items:center;
     list-style: none;
-    /* margin: 30px 0 0 0; */
     background-color:#93B3BF;
 }
 .port-footer > p{
@@ -181,13 +174,6 @@ monospace; */
     justify-content: space-evenly;
 }
 
-
-.projects{
-     width:33%;
-     height: 33%;
-     border:black solid 5px;
-}
-
 .contact-container{
     height:100%;
     width:100%;
@@ -198,7 +184,6 @@ monospace; */
     margin:1%;
     display:flex;
     flex-direction: column;
-    /* border:solid 3px rgba(2, 14, 38, 0.342); */
     padding: 3%;
     border-radius: 10px;
     
@@ -207,7 +192,7 @@ form>input{
     width: 600px;
     height: 50px;
     border-radius: 10px;
-   margin:10px;
+    margin:10px;
     background-color:rgba(62, 129, 148, 0.342);
     padding:3px;
 }
@@ -228,9 +213,94 @@ form>button{
     font-family: 'Indie Flower', cursive;
     font-size:25pt;
 }
+.projectInfo{
+    display: flex;
+    flex-direction:column;
+    /* text-align: center; */
+}
+
+
+.brief{
+    font-size: 30pt;
+    margin: 20px;
+}
+.list{
+    display:flex;
+    justify-content:space-between;
+    list-style:none;
+    margin:10px;
+
+}
+
+.item{
+    width:40%;
+
+}
+
+ .portButton{
+   
+        text-align: end;
+        font-size: 15pt;
+        padding: 20px;
+        color:  #3E8294;
+        background-color: #93B3BF;
+} 
+
 
 @media only screen and (min-width: 600px) {
     .nav-list{
         flex-direction: row;
     }
+    .about-container {
+        display: flex;
+        padding: 30px 20px;
+        text-align: center;
+        justify-content: space-evenly;
+    }
+
+    .about-text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 70%;
+        margin: 0px 5px;
+    }
+
+    .project-container>:nth-child(even) {
+        flex-direction: row-reverse;
+    }
+
+.project {
+    display: flex;
+    flex-direction: column;
+    /* height: 450px; */
+    justify-content: space-between;
+    margin: 20px;
+
+}
+
+.project-brief-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.project-brief-container>h3 {
+    text-align: center;
+    font-size: 30pt;
+    margin: 10px;
+}
+.project-brief-container>p {
+    margin: 0px 30px 10px;
+    line-height: 20pt;
+}
+
+.project-img-container {
+    width: 95%;
+    height: 350px;
+    display: flex;
+}
+    /* margin: 30px 0 0 0; */
 }
