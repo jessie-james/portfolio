@@ -4,7 +4,7 @@
     font-family: 'Times New Roman', Times, serif;
     width:100%;
     background-color: white;
-    padding: 20px; 
+    /* padding: 20px;  */
 }
 .columnOne{
     width:85%;
@@ -32,12 +32,13 @@
 }
 .job-title >span {
     font-style: italic;
+    
 }
 .columnOne>h1 {
     font-size: 35pt;
     color:rgba(0, 0, 0, 0.774);
     text-align: center;
-    /* margin: 35px 20px; */
+    
 }
 .columnOne > h1 > span {
     font-size:15pt;
@@ -55,6 +56,11 @@
 .project-link{
     color: rgba(0, 0, 0, 0.548);
 
+}
+.columnTwo{
+    width:85%;
+    margin: 0 0 0px 10px;
+    padding:0 0 10px 0;
 }
 .skills-list{
     margin:0px 0px 0px 40px;
@@ -87,15 +93,22 @@
     margin: 5px;
 }
 
-@media only screen and (min-width: 600px) {
-    
+@media only screen and (min-width: 400px) {
+    .columnOne>h1 {
+        margin: 35px 20px;
+    }
+
+
+}
+@media only screen and (min-width: 700px) {
+   
     .resume-container {
         display: flex;
         height: 80%;
-        width: 65%;
+        width: 90%;
         margin: 25px auto;
         background-color: white;
-        padding: 20px;
+        padding: 30px;
         box-shadow: 8px 8px 20px #00000057;
     }
     .columnOne {
@@ -112,4 +125,15 @@
     .columnOne>h1 {
         margin: 35px 20px;
     }
+}
+@media only screen and (min-width: 900px) {
+.resume-container {
+    display: flex;
+    height: 80%;
+    width: 70%;
+    margin: 25px auto;
+    background-color: white;
+    padding: 30px;
+    box-shadow: 8px 8px 20px #00000057;
+}
 }
