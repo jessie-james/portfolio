@@ -225,19 +225,30 @@ form>button{
 
 .brief{
     font-size: 30pt;
-    margin: 20px;
+    margin: 40px;
+    text-align: center; 
+
 }
+.brief-p-tag{
+    display:flex;
+    width: 60%;
+    margin:20px auto;
+    text-align: center;
+}
+
 .list{
     display:flex;
+    flex-direction: column;
     justify-content:space-between;
     list-style:none;
     margin:10px;
-
+    align-items: center;
+     
 }
 
 .item{
     width:40%;
-
+    margin:10px;
 }
 
  .portButton{
@@ -248,6 +259,12 @@ form>button{
         color:  #3E8294;
         background-color: #93B3BF;
 } 
+.tryMe{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-size:20pt;
+}
 
 /* upto iphone 5 */
 @media only screen and (min-width: 411px) {
@@ -293,6 +310,10 @@ form>button{
         width: 250px;
         flex-direction: row;
         justify-content: space-between;
+    }
+    .list{
+        flex-direction: row;
+        justify-content:space-evenly;
     }
 
    .about-text {

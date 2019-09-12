@@ -7,21 +7,23 @@ const ProjectPage = () => {
     return (<div className="project-page-container">
         <div className="projectInfo">
             <h1 className="port-body brief">Brief</h1>
-            <p>Why i made this app. what this app does and who it can helpp what did i learn and what will i still work to Chnage</p>
+            <p className="brief-p-tag">Exchange rates are used everyday But how much do you actually understand about the rate. Do you know if the Exchange rate is good or bad? High or Low?A currency is classified as Strong when it is worth more than another country’s currency. </p>
             <ul className="list">
                 <li className="item">
-                    <h3>Skills</h3>
-                    <p>all the things i used will go here</p>
-                    <p>all the things i used will go here</p>
-                    <p>all the things i used will go here</p>
+                    <h3>Built With:</h3>
+                    <p>JavaScript</p>
+                    <p>React</p>
+                    <p>Axios</p>
+                    <p>CSS</p>
+                    
                 </li>
                 <li className="item">
-                    <h3>My role</h3>
-                    <p>all the things that I did if it was a group because my role aal cool and then pull in some things off my resume to make me look like an awsome Bad Ass</p>
+                    <h3>Comming Soon:</h3>
+                    <p>I will be adding a server and database using MongoDB, Express and Mongoose. This data base will house currancy codes, exchange rates country flags and bread prices for all the currancies that are currently acessable on this app. Through that database I will build out the cost of living factor pages.</p>
                 </li>
             </ul>
-            <h2 className="list">Try Me Out</h2>
-            <div>\/</div>
+            <h2 className="list tryMe">Try Me Out</h2>
+            <i className="fa fa-arrow-down tryMe"></i>
             <div className="play-with-it">
                 <Xchange />
             </div>
