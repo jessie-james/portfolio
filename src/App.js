@@ -18,6 +18,7 @@ const App = () => {
             <Route path='/Xchange' component={ProjectPage} />
             <Route path='/Contact' component ={Contact}/>
         </Switch>
+        <a herf="src/imgs/august2019.pdf">Link Here</a>
         <Footer/>
     </div>)
 }

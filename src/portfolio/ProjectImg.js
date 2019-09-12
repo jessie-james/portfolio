@@ -1,5 +1,5 @@
 import React from 'react'
-import webX from '../imgs/xchangewebpage.png'
+
 import mobileX from '../imgs/xchangemobliescreen.png'
 
 const ProjectImg = () => {

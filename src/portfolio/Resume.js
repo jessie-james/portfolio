@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-router-dom'
 import './resume.css'
 
 const Resume = () => {
@@ -6,7 +7,10 @@ const Resume = () => {
     return (
         <div className="resume-container">
             <div className="columnOne">
-                <h1>Jessie James<span className="mobile-span">FullStack Web Developer</span><span className="mobile-span">Print Resume: Link PDF</span></h1>
+                <h1>Jessie James
+                    <span className="mobile-span">FullStack Web Developer</span>
+                    <Link to='/august2019.pdf' className="mobile-span print" target="_blank">Click Here to Print Resume</Link>
+                </h1>
                 <div className="columnOne-sections">
                     <h2 className="resume-header"> WEB DEVELOPLENT WORK ~ view work above ~</h2>
                         <h2 className="resume-header"> PROFESSIONAL EXPERIENCE</h2>
