@@ -20,8 +20,6 @@ const Results = (props) => {
                 Item is saved in Saved Rates
                 </div>
             <button className="save" onClick={props.globalSave}>Save</button>
-            
-            
         </div>
     )
 }

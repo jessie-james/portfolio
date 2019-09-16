@@ -1,6 +1,6 @@
 import React from 'react'
 import ListItem from './ListItem'
-import {withGlobal} from './GlobalProvider'
+import { withGlobal } from './GlobalProvider'
 
 class SavedList extends React.Component {
     
@@ -15,7 +15,7 @@ class SavedList extends React.Component {
         return (
             <div className="saved-rates-container">
                 <h1>Saved Exchanged Rates</h1>
-                {mappedList}
+                { mappedList }
             </div>
         )
     }

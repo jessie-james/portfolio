@@ -10,16 +10,17 @@ import Footer from './portfolio/Footer'
 import './styles.css'
 
 const App = () => {
-    return (<div className="main-app-container">
-        <Nav />
-        <Switch>
-            <Route exact path='/' component={Body} />
-            <Route path='/Portfolio' component={ProjectsContainer} />
-            <Route path='/Xchange' component={ProjectPage} />
-            <Route path='/Contact' component ={Contact}/>
-        </Switch>
-        <a herf="src/imgs/august2019.pdf">Link Here</a>
-        <Footer/>
-    </div>)
+    return (
+        <div className="main-app-container">
+            <Nav />
+            <Switch>
+                <Route exact path='/' component={Body} />
+                <Route path='/Portfolio' component={ProjectsContainer} />
+                <Route path='/Xchange' component={ProjectPage} />
+                <Route path='/Contact' component ={Contact}/>
+            </Switch>
+            <Footer/>
+        </div>
+    )
 }
 export default App

@@ -7,4 +7,4 @@
 
 
 
-// ReactDOM.render(<BrowserRouter><GlobalProvider><App/></GlobalProvider></BrowserRouter>, document.getElementById("root"))
+// ReactDOM.render(<BrowserRouter><GlobalProvider><App /></GlobalProvider></BrowserRouter>, document.getElementById("root"))

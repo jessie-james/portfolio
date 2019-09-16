@@ -219,7 +219,6 @@ form>button{
 .projectInfo{
     display: flex;
     flex-direction:column;
-    /* text-align: center; */
 }
 
 
@@ -227,7 +226,6 @@ form>button{
     font-size: 30pt;
     margin: 40px;
     text-align: center; 
-
 }
 .brief-p-tag{
     display:flex;
@@ -288,18 +286,12 @@ form>button{
          justify-content: space-between;
          align-items: center;
          margin: 20px;
-
      }
     .project-img-container {
         width: 400px;
         
     }
-
-    
-
 }
-
-
 
 @media  (min-width: 700px) {
     .port-nav-bar {
