@@ -1,32 +1,23 @@
  *{
     margin:0;
 }
-/* font-family: 'Indie Flower',
-cursive;
-font-family: 'Special Elite',
-cursive;
-font-family: 'Nothing You Could Do',
-cursive;
-font-family: 'IBM Plex Mono',
-monospace; */
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Indie+Flower|Nothing+You+Could+Do|Special+Elite&display=swap');
 
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Indie+Flower|Nothing+You+Could+Do|Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 .port-nav-bar{
     display:flex; 
-    background-color:rgba(147, 179, 191, 0.733);
+    background-color:#0092CA;
     justify-content: space-around; 
     height: 15vh;
     width:100%;
     position: fixed;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Raleway',sans-serif;
 }
 
 .port-body{
     padding: 90px 0px 0px;
 }
-.port-nav {
-    color:#3E8294;
-}
+
 .nav-list {
     list-style: none;
     display: flex;
@@ -35,7 +26,6 @@ monospace; */
 }
 
 .main-app-container {
-    background-color:#D8E8F2;
     color:rgba(2, 14, 38, 0.671);
     font-family: 'IBM Plex Mono', monospace;
 }
@@ -44,16 +34,25 @@ monospace; */
     font-family: 'Indie Flower', cursive;
     display:flex;
     font-size: 15pt;
-    flex-direction:column;
-    align-items: center;
-    text-align: center;
+    flex-direction:row;
     width: 100%;
     height:100%;
-    background-color:#D8E8F2;
+    justify-content: space-evenly;
+   
+}
+.home-text{
+    display:flex;
+    flex-direction:column;
+    width: 40%;
+}
+.home-graphic{
+    height:250px;
+    width:250px;
+
 }
 .home-name-container >h3{
-    width: 300px;
-    font-family: 'Indie Flower',cursive;
+    
+    font-family: 'Raleway',sans-serif; 
 }
 .view-work-button{
     display: flex;
@@ -64,50 +63,42 @@ monospace; */
     margin:30px;
     align-items: center;
     justify-content: center;
-    
+    color:#0092CA ; 
+    text-decoration: none;
 }
 .about-body {
     display: flex;
     font-size: 10pt;
     width:100%;
     font-family:'Indie Flower',cursive;
-    flex-direction: column;
 }
 
 .about-container {
     display: flex;
     padding: 30px 20px;
-    text-align: center;
+    
     justify-content: space-evenly;
+    flex-direction: column;
 }
-.about-text{
-    display:flex;
-    flex-direction:column;
-    justify-content: center;
-    width:70%;
-    margin: 0px 5px;
+.about-container>h3 {
+    font-family: 'Raleway',sans-serif;
+     width:70%;
+     margin: 0px 5px;
 }
-.about-img{
-    width:40%;
-    display:flex;
-}
+
 .project-container {
     display: flex;
     flex-direction: column;
     margin: 0 0 30px 0;
 }
 
-.about-body>:nth-child(even) {
-    flex-direction: row-reverse;
-}
-
-
 .project{
     display:flex;
     flex-direction:column;
-    /* height: 450px; */
     justify-content: space-between;
     margin:20px;
+    font-family: 'Raleway',
+    sans-serif;
     
 }
 
@@ -116,6 +107,7 @@ monospace; */
     flex-direction:column;
     justify-content: center;
     width:100%;
+    font-family: 'Raleway',sans-serif; 
    
 }
 .project-brief-container >h3 {
@@ -165,7 +157,7 @@ monospace; */
     align-content: center;
     align-items:center;
     list-style: none;
-    background-color:#93B3BF;
+    background-color:#0092CA;
 }
 .port-footer > p{
     margin: 10px;
@@ -196,7 +188,7 @@ form>input{
     height: 50px;
     border-radius: 10px;
     margin:10px;
-    background-color:rgba(62, 129, 148, 0.342);
+
     padding:3px;
 }
 form>button{
@@ -204,8 +196,7 @@ form>button{
     height:30px;
     margin: 40px 10px;
     border-radius: 25px;
-    border:solid 3px rgba(2, 14, 38, 0.342);
-    background-color:#3E8294;
+   
 }
 .message{
     height :300px;
@@ -226,12 +217,16 @@ form>button{
     font-size: 30pt;
     margin: 40px;
     text-align: center; 
+    font-family: 'Raleway',
+    sans-serif;
 }
 .brief-p-tag{
     display:flex;
     width: 60%;
     margin:20px auto;
     text-align: center;
+    font-family: 'Raleway',
+    sans-serif;
 }
 
 .list{
@@ -254,7 +249,7 @@ form>button{
         text-align: end;
         font-size: 15pt;
         padding: 20px;
-        color:  #3E8294;
+        color: #0092CA;
         background-color: #93B3BF;
 } 
 .tryMe{
