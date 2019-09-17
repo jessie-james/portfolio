@@ -71,13 +71,11 @@
     font-size: 10pt;
     width:100%;
     font-family:'Indie Flower',cursive;
+    justify-content: space-between;
 }
 
 .about-container {
     display: flex;
-    padding: 30px 20px;
-    
-    justify-content: space-evenly;
     flex-direction: column;
 }
 .about-container>h3 {
