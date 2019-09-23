@@ -6,10 +6,12 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 .port-nav-bar{
     display:flex; 
-    background-color:#0092CA;
-    justify-content: space-around; 
+    background-color:rgba(0, 145, 202, 0.623);
+    justify-content: space-between; 
+    align-items: center;
     height: 15vh;
-    width:100%;
+    width:100vw;
+    padding:0px 5px;
     position: fixed;
     font-family: 'Raleway',sans-serif;
 }
@@ -17,12 +19,21 @@
 .port-body{
     padding: 90px 0px 0px;
 }
-
+.port-nav-bar> h1{
+    padding: 5px 10px;
+    font-family: 'Indie Flower',cursive;
+}
 .nav-list {
     list-style: none;
     display: flex;
-    margin: 10px;
     flex-direction: column;
+    margin:20px;
+    
+}
+.nav-list > a {
+    color:white;
+    text-decoration: none;
+
 }
 
 .main-app-container {
@@ -34,10 +45,13 @@
     font-family: 'Indie Flower', cursive;
     display:flex;
     font-size: 15pt;
-    flex-direction:row;
-    width: 100%;
+    flex-direction:column;
+    width: 100vw;
     height:100%;
-    justify-content: space-evenly;
+    margin:0px 0px 20px 0px;
+    align-items: center;
+    justify-content: center;
+    
    
 }
 .home-text{
@@ -46,30 +60,54 @@
     width: 40%;
 }
 .home-graphic{
-    height:250px;
-    width:250px;
-
+    height:150px;
+    width:150px;
 }
 .home-name-container >h3{
-    
     font-family: 'Raleway',sans-serif; 
+}
+.about-body{
+    display: flex;
+    flex-direction: column;
+}
+.about-container{
+    width:80%;
+    margin:25px;
+}
+.about-container>h1{
+    text-align: center;
+    margin:0px 0px 10px 0px;
+}
+.home-about-port{
+    display:flex;
+    flex-direction:row;
+    width:80%;
+    margin:20px;
+    align-items: center;
+    justify-content: center;
 }
 .view-work-button{
     display: flex;
     border:solid 1px rgba(2, 14, 38, 0.671);
     border-radius: 30px;
-    width:40vw;
+    width:50vw;
     height:10vh;
-    margin:30px;
     align-items: center;
     justify-content: center;
     color:#0092CA ; 
     text-decoration: none;
 }
+.view-work-button > a{
+    color: rgba(2, 14, 38, 0.671);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .about-body {
     display: flex;
     font-size: 10pt;
-    width:100%;
+    
+    margin:20px;
     font-family:'Indie Flower',cursive;
     justify-content: space-between;
 }
@@ -94,7 +132,7 @@
     display:flex;
     flex-direction:column;
     justify-content: space-between;
-    margin:20px;
+    
     font-family: 'Raleway',
     sans-serif;
     
@@ -104,7 +142,7 @@
     display:flex;
     flex-direction:column;
     justify-content: center;
-    width:100%;
+    width:90%;
     font-family: 'Raleway',sans-serif; 
    
 }
@@ -118,7 +156,7 @@
     line-height: 20pt; 
 }
 .project-img-container{
-    width:95%; 
+    width:80%; 
     height: 350px;
     display:flex;
 }
@@ -142,7 +180,7 @@
 .img-mobile{
     height: 85%;
     width:45%;
-    margin: -60px -30px;
+    margin: -40px -15px;
     border-radius: 10px;
     box-shadow: 10px 10px 8px; 
 }
@@ -150,21 +188,26 @@
 .port-footer{
     height: 30vh;
     display:flex;
+    width:100vw;
     flex-direction: column;
     justify-content: center;
     align-content: center;
     align-items:center;
     list-style: none;
-    background-color:#0092CA;
+    color:rgb(0, 92, 129);
 }
 .port-footer > p{
     margin: 10px;
+}
+.project-brief-container>a{
+    text-decoration: none;
+    color:#0092CA;
 }
 
 .port-footer > ul{
     display: flex;
     list-style: none;
-    width:100%;
+    width:90%;
     text-align: center;
     justify-content: space-evenly;
 }
@@ -213,14 +256,14 @@ form>button{
 
 .brief{
     font-size: 30pt;
-    margin: 40px;
+    margin: 20px;
     text-align: center; 
     font-family: 'Raleway',
     sans-serif;
 }
 .brief-p-tag{
     display:flex;
-    width: 60%;
+    width: 80%;
     margin:20px auto;
     text-align: center;
     font-family: 'Raleway',
@@ -232,13 +275,15 @@ form>button{
     flex-direction: column;
     justify-content:space-between;
     list-style:none;
-    margin:10px;
-    align-items: center;
+    margin:20px;
      
+}
+.item > h3{
+    margin:10px 0px;
+    font-size:15pt;
 }
 
 .item{
-    width:40%;
     margin:10px;
 }
 
@@ -270,7 +315,6 @@ form>button{
          display: flex;
          flex-direction: column;
          justify-content: center;
-         width: 200px;
          margin: 0px 5px;
      }
      .project {
@@ -290,11 +334,21 @@ form>button{
     .port-nav-bar {
         height: 50px;
         justify-content: space-between;
+        width:100vw;
     }
     .nav-list{
-        width: 250px;
+        width:200px;
         flex-direction: row;
-        justify-content: space-between;
+        justify-content: space-evenly;
+    }
+    .about-body{
+        flex-direction: row;
+        margin:10px;
+    }
+    .about-container{
+        justify-content: center;
+        align-items: center;
+        margin:10px;
     }
     .list{
         flex-direction: row;
@@ -302,7 +356,6 @@ form>button{
     }
 
    .about-text {
-       width: 300px;
        margin: 0px 5px;
    }
 
@@ -311,14 +364,15 @@ form>button{
        padding:10px;
    }
    .port-footer>ul {
-       width: 95%;
        text-align: center;
-       
        justify-content: space-evenly;
    }
 
    form>input {
        width: 60vw;
+   }
+   .item{
+       margin:10px 30px;
    }
 }
 @media (min-width: 1000px) {

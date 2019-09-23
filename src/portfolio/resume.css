@@ -2,7 +2,7 @@
     color:rgba(0, 0, 0, 0.609);
     justify-content: space-between;
     font-family: 'Times New Roman', Times, serif;
-    width:100%;
+    margin:20px;
     background-color: white;
     /* padding: 20px;  */
 }
@@ -111,20 +111,20 @@
     .resume-container {
         display: flex;
         height: 80%;
-        width: 90%;
+        width: 85%;
         margin: 25px auto;
         background-color: white;
-        padding: 30px;
+        padding: 10px;
         box-shadow: 8px 8px 20px #00000057;
     }
     .columnOne {
-        width: 65%;
+        width: 55%;
         margin: 0 0 0 10px;
     }
 
     .columnTwo {
-        width: 25%;
-        margin: 120px 10px 0 0;
+        width: 35%;
+        margin: 120px 0px 0 -20px;
         line-height: 18pt;
 
     }
@@ -141,5 +141,16 @@
     background-color: white;
     padding: 30px;
     box-shadow: 8px 8px 20px #00000057;
+}
+.columnOne {
+    width: 65%;
+    margin: 0 0 0 10px;
+}
+
+.columnTwo {
+    width: 25%;
+    margin: 120px 0px 0 -20px;
+    line-height: 18pt;
+
 }
 }

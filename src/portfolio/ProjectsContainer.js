@@ -12,18 +12,6 @@ const ProjectsContainer = () => {
                 <ProjectBrief />
                 <ProjectImg />
             </div>
-            <div className="project">
-                <ProjectBrief />
-                <ProjectImg />
-            </div>
-            <div className="project">
-                <ProjectBrief />
-                <ProjectImg />
-            </div>
-            <div className="project">
-                <ProjectBrief />
-                <ProjectImg />
-            </div>
         </div>
     )
 }
