@@ -1,16 +1,18 @@
 import React from 'react'
-import ProjectBrief from './ProjectBrief'
-import ProjectImg from './ProjectImg'
+import XchangeBrief from './Projects/XchangeBrief'
+import DddbBrief from './Projects/DddbBrief'
+import DddbImg from './Projects/Dddbimg'
+import XchangeImg from './Projects/Xchangeimg'
 const ProjectsContainer = () => {
     return (
         <div className="project-container port-body">
             <div className="project">
-                <ProjectBrief/>
-                <ProjectImg />
+                <XchangeBrief/>
+                <XchangeImg />
             </div>
             <div className="project">
-                <ProjectBrief />
-                <ProjectImg />
+                <DddbBrief />
+                <DddbImg />
             </div>
         </div>
     )
