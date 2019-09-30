@@ -408,13 +408,20 @@ form>button{
        display: flex;
        flex-direction: column;
        justify-content: center;
-       width: 60%;
+       align-items:center;
+       width: 40%;
+       margin:0 50px;
+
+   }
+   .project-brief-container>p{
+       
 
    }
    .project-img-container {
     width: 550px;
     height: 450px;
     display: flex;
+    margin:0px 50px;
 } 
 .img-mobile {
     height: 85%;
