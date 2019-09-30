@@ -9,7 +9,7 @@ const Resume = () => {
             <div className="columnOne">
                 <h1>Jessie James
                     <span className="mobile-span">FullStack Web Developer</span>
-                    <Link to='/august2019.pdf' className="mobile-span print" target="_blank">Click Here to Print Resume</Link>
+                    <Link to='/octoberresume.pdf' className="mobile-span print" target="_blank">Click Here to Print Resume</Link>
                 </h1>
                 <div className="columnOne-sections">
                     <h2 className="resume-header"> WEB DEVELOPLENT WORK ~ view work above ~</h2>
