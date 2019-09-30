@@ -182,6 +182,10 @@
 #daddyddb-bg{
     background-image: url(./imgs/dddbweb.png);
 }
+#moodtracker-bg{
+    background-image: url(./imgs/webMood.png);
+    
+}
 
 .img-mobile{
     height: 85%;
@@ -413,10 +417,7 @@ form>button{
        margin:0 50px;
 
    }
-   .project-brief-container>p{
-       
-
-   }
+   
    .project-img-container {
     width: 550px;
     height: 450px;

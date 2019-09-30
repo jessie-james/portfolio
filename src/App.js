@@ -17,6 +17,7 @@ const App = () => {
                 <Route exact path='/' component={Body} />
                 <Route path='/Portfolio' component={ProjectsContainer} />
                 <Route path='/Xchange' component={ProjectPage} />
+                {/* <Route Path="/Moodtracker" component={MoodProject}/> */}
                 {/* <Route path='/Contact' component ={Contact}/> */}
             </Switch>
             <Footer/>
