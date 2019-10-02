@@ -6,8 +6,7 @@ const ProjectPage = () => {
 
     return (<div className="project-page-container">
         <div className="projectInfo">
-            <h1 className="port-body brief">Brief</h1>
-            <p className="brief-p-tag">Exchange rates are used everyday But how much do you actually understand about the rate. Do you know if the Exchange rate is good or bad? High or Low?A currency is classified as Strong when it is worth more than another country’s currency. </p>
+            <h1 className="port-body brief">StrongXchange</h1>
             <ul className="list">
                 <li className="item">
                     <h3>Built With:</h3>

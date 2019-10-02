@@ -417,6 +417,17 @@ form>button{
        margin:0 50px;
 
    }
+   .brief-p-tag {
+       display: flex;
+       width: 40%;
+       margin: 20px auto;
+       text-align: center;
+       font-family: 'Raleway',
+           sans-serif;
+   }
+   .list>li{
+       width: 30%;
+   }
    
    .project-img-container {
     width: 550px;

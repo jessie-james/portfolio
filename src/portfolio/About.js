@@ -4,7 +4,7 @@ const About = () => {
     <div className="about-body">
         <div className="about-container">
                 <h1>Life Goal</h1>
-                <h3>Goal: to create an Internet that form real connetct and drives good business practices, rather than psudeo connection and "click bate" applications</h3>
+                <h3>to create an Internet that forms real connection and drives good business practices, rather than psudeo connection and "click bate" applications</h3>
         </div>
         <div className="about-container">
                 <h1>Hard Skills</h1>
@@ -12,7 +12,7 @@ const About = () => {
         </div>
         <div className="about-container">
                 <h1>Hobbies</h1>
-                <h3>Listening to music while research new libraries and best practices. I love learn new things from the latest in tech to a new climbing technique</h3>
+                <h3>Listening to EDM while researching new libraries and best practices. I love learn new things from the latest in tech to creative new ways to solve our worlds humanitarian problems</h3>
         </div>
     </div>
     )

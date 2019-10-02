@@ -12,7 +12,8 @@ const Resume = () => {
                     <Link to='/octoberresume.pdf' className="mobile-span print" target="_blank">Click Here to Print Resume</Link>
                 </h1>
                 <div className="columnOne-sections">
-                    <h2 className="resume-header"> WEB DEVELOPLENT WORK ~ view work above ~</h2>
+                    <h2 className="resume-header"> WEB DEVELOPLENT WORK</h2>
+                        <p>~see Portfolio~</p>
                         <h2 className="resume-header"> PROFESSIONAL EXPERIENCE</h2>
                         <div className="work-experiance-section">
                             <h3 className="company-title">TELOS U, LLC Orem, UT <span>[02- 2017—07 -2019]</span></h3>
@@ -52,7 +53,7 @@ const Resume = () => {
                 <ul className="column-two-list">
                     <li># 801-718-4984</li>
                     <li>jess.mae.james@gmail.com</li>
-                    <li>Portfolio: link</li>
+                    <li>Portfolio: jessie_mae.surge.sh</li>
                     <li>Github:  jessie-james</li>
                     <li>LinkedIn: jessie--james</li>         
                 </ul>
