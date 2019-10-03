@@ -1,1484 +1,1484 @@
 
 // {
 //     "countryName": "AFGHANISTAN",
-//     "currancyCode": "AFN",
+//     "currencyCode": "AFN",
 //     "imgUrl": "https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Afghanistan_-_Circle-512.png",
 //     "breadPrice": 3.12 
 // },
 
 // {
 //     "countryName": "ALBANIA",
-//     "currancyCode": "ALL",
+//     "currencyCode": "ALL",
 //     "imgUrl": "https://cdn4.iconfinder.com/data/icons/flat-country-flag/512/Albania-512.png",
 //     "breadPrice":0.06
 // },
 // {
 //     "countryName": "ARMENIA",
-//     "currancyCode": " AMD",
+//     "currencyCode": " AMD",
 //     "imgUrl": "https://cdn.countryflags.com/thumbs/armenia/flag-round-250.png",
 //     "breadPrice":0.50
 // },
 // {
 //     "countryName": "CURAÇAO",
-//     "currancyCode": "ANG",
+//     "currencyCode": "ANG",
 //     "imgUrl": "https://cdn5.vectorstock.com/i/1000x1000/44/09/curacao-flag-on-button-vector-24004409.jpg",
 //     "breadPrice":0.32
 // },
 
 // {
 //     "countryName": "ANGOLA",
-//     "currancyCode": "AOA",
+//     "currencyCode": "AOA",
 //     "imgUrl": "https://st2.depositphotos.com/1006031/8324/i/950/depositphotos_83247412-stock-photo-round-icon-with-flag-of.jpg",
 //     "breadPrice":0.87
 // },
 
 // {
 //     "countryName":"ARGENTINA" ,
-//     "currancyCode": "ARS",
+//     "currencyCode": "ARS",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 
 // {
 //     "countryName":"AUSTRALIA" ,
-//     "currancyCode": "AUD",
+//     "currencyCode": "AUD",
 //     "imgUrl": ,
 //     "breadPrice":
 // },
 // {
 //     "countryName":"KIRIBATI" ,
-//     "currancyCode":"AUD" ,
+//     "currencyCode":"AUD" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // },
 // {
 //     "countryName": "NAURU",
-//     "currancyCode":"AUD" ,
+//     "currencyCode":"AUD" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 
 // {
 //     "countryName": "TUVALU",
-//     "currancyCode":"AUD" ,
+//     "currencyCode":"AUD" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 
 // {
 //     "countryName": "ARUBA",
-//     "currancyCode": "AWG",
+//     "currencyCode": "AWG",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ARUBA Aruban Florin AWG 533
 // {
 //     "countryName": "AZERBAIJAN",
-//     "currancyCode": "AZN",
+//     "currencyCode": "AZN",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BOSNIA",
-//     "currancyCode":"BAM" ,
+//     "currencyCode":"BAM" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"BARBADOS" ,
-//     "currancyCode": "BBD",
+//     "currencyCode": "BBD",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"BANGLADESH" ,
-//     "currancyCode": " BDT ",
+//     "currencyCode": " BDT ",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"BULGARIA" ,
-//     "currancyCode": "BGN",
+//     "currencyCode": "BGN",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"BAHRAIN" ,
-//     "currancyCode": "BHD",
+//     "currencyCode": "BHD",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BURUNDI ",
-//     "currancyCode": "BIF",
+//     "currencyCode": "BIF",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BERMUDA",
-//     "currancyCode": "BMD",
+//     "currencyCode": "BMD",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BRUNEI DARUSSALAM",
-//     "currancyCode": BND ,
+//     "currencyCode": BND ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"BOLIVIA" ,
-//     "currancyCode": "BOB ",
+//     "currencyCode": "BOB ",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BOLIVA-MV",
-//     "currancyCode": BOV,
+//     "currencyCode": BOV,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BRAZIL",
-//     "currancyCode": "BRL",
+//     "currencyCode": "BRL",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BAHAMAS",
-//     "currancyCode": "BSD ",
+//     "currencyCode": "BSD ",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BHUTAN",
-//     "currancyCode": "BTN",
+//     "currencyCode": "BTN",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BOTSWANA ",
-//     "currancyCode": "BWP",
+//     "currencyCode": "BWP",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"BELARUS" ,
-//     "currancyCode":"BYN" ,
+//     "currencyCode":"BYN" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BELIZE",
-//     "currancyCode": "BZD",
+//     "currencyCode": "BZD",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"CANADA" ,
-//     "currancyCode": "CAD",
+//     "currencyCode": "CAD",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "CONGO",
-//     "currancyCode":"CDF" ,
+//     "currencyCode":"CDF" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "SWITZERLAND",
-//     "currancyCode":"CHE" ,
+//     "currencyCode":"CHE" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "LIECHTENSTEIN ",
-//     "currancyCode":"CHF" ,
+//     "currencyCode":"CHF" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"SWITZERLAND-F" ,
-//     "currancyCode": "CHF",
+//     "currencyCode": "CHF",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"SWITZERLAND-W" ,
-//     "currancyCode": "CHW",
+//     "currencyCode": "CHW",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "CHILE",
-//     "currancyCode": "CLF",
+//     "currencyCode": "CLF",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"CHILE-P",
-//     "currancyCode":"CLP",
+//     "currencyCode":"CLP",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"CHINA " ,
-//     "currancyCode": "CNY",
+//     "currencyCode": "CNY",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "COLOMBIA-P",
-//     "currancyCode": "COP",
+//     "currencyCode": "COP",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"COLOMBIA" ,
-//     "currancyCode": "COU",
+//     "currencyCode": "COU",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"COSTA RICA ",
-//     "currancyCode":"CRC" ,
+//     "currencyCode":"CRC" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "CUBA-C",
-//     "currancyCode": "CUC",
+//     "currencyCode": "CUC",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "CUBA-P",
-//     "currancyCode": "CUP",
+//     "currencyCode": "CUP",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "CABO VERDE",
-//     "currancyCode": "CVE",
+//     "currencyCode": "CVE",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"CZECH REPUBLIC" ,
-//     "currancyCode":"CZK" ,
+//     "currencyCode":"CZK" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "DJIBOUTI",
-//     "currancyCode": "DJF",
+//     "currencyCode": "DJF",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "DENMARK",
-//     "currancyCode": "DKK",
+//     "currencyCode": "DKK",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "FAROE ISLANDS",
-//     "currancyCode": "DKK",
+//     "currencyCode": "DKK",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "GREENLAND",
-//     "currancyCode": "DKK ",
+//     "currencyCode": "DKK ",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "DOMINICAN REPUBLIC",
-//     "currancyCode": "DOP",
+//     "currencyCode": "DOP",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"ALGERIA" ,
-//     "currancyCode":"DZD" ,
+//     "currencyCode":"DZD" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"EGYPT" ,
-//     "currancyCode":"EGP" ,
+//     "currencyCode":"EGP" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "ERITREA",
-//     "currancyCode": "ERN",
+//     "currencyCode": "ERN",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"ETHIOPIA" ,
-//     "currancyCode":"ETB" ,
+//     "currencyCode":"ETB" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"ANDORRA" ,
-//     "currancyCode":"EUR" ,
+//     "currencyCode":"EUR" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "AUSTRIA",
-//     "currancyCode": "EUR",
+//     "currencyCode": "EUR",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "BELGIUM",
-//     "currancyCode": " EUR",
+//     "currencyCode": " EUR",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "CYPRUS",
-//     "currancyCode":"EUR" ,
+//     "currencyCode":"EUR" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"ESTONIA" ,
-//     "currancyCode":"EUR" ,
+//     "currencyCode":"EUR" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"EUROPEAN UNION" ,
-//     "currancyCode": "EUR",
+//     "currencyCode": "EUR",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"FINLAND" ,
-//     "currancyCode":"EUR" ,
+//     "currencyCode":"EUR" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "FRANCE",
-//     "currancyCode":"EUR" ,
+//     "currencyCode":"EUR" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "FRENCH GUIANA",
-//     "currancyCode": "EUR",
+//     "currencyCode": "EUR",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"GERMANY" ,
-//     "currancyCode":"EUR" ,
+//     "currencyCode":"EUR" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "GREECE",
-//     "currancyCode": "EUR ",
+//     "currencyCode": "EUR ",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"GUADELOUPE" ,
-//     "currancyCode": "EUR",
+//     "currencyCode": "EUR",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": "IRELAND",
-//     "currancyCode": "EUR",
+//     "currencyCode": "EUR",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"ITALY" ,
-//     "currancyCode": "EUR",
+//     "currencyCode": "EUR",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"LATVIA" ,
-//     "currancyCode": "EUR",
+//     "currencyCode": "EUR",
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName":"LITHUANIA" ,
-//     "currancyCode":"EUR" ,
+//     "currencyCode":"EUR" ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // LUXEMBOURG Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MALTA Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MARTINIQUE Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MAYOTTE Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MONACO Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MONTENEGRO Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NETHERLANDS(THE) Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PORTUGAL Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // RÉUNION Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAINT BARTHÉLEMY Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAINT MARTIN(FRENCH PART) Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAINT PIERRE AND MIQUELON Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAN MARINO Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SLOVAKIA Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SLOVENIA Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SPAIN Euro EUR 978 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // FIJI Fiji Dollar FJD 242 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // FALKLAND ISLANDS(THE)[MALVINAS] Falkland Islands Pound FKP 238 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GUERNSEY Pound Sterling GBP 826 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ISLE OF MAN Pound Sterling GBP 826 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // JERSEY Pound Sterling GBP 826 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // UNITED KINGDOM OF GREAT BRITAIN  Pound Sterling GBP 826 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GEORGIA Lari GEL 981 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GHANA Ghana Cedi GHS 936 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GIBRALTAR Gibraltar Pound GIP 292 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GAMBIA(THE) Dalasi GMD 270 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GUINEA Guinea Franc GNF 324 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GUATEMALA Quetzal GTQ 320 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GUYANA Guyana Dollar GYD 328 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // HONG KONG Hong Kong Dollar HKD 344 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // HONDURAS Lempira HNL 340 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // CROATIA Kuna HRK 191 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // HAITI Gourde HTG 332 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // HUNGARY Forint HUF 348 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // INDONESIA Rupiah IDR 360 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ISRAEL New Israeli Sheqel ILS 376 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // BHUTAN Indian Rupee INR 356 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // INDIA Indian Rupee INR 356 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // IRAQ Iraqi Dinar IQD 368 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // IRAN(ISLAMIC REPUBLIC OF) Iranian Rial IRR 364 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ICELAND Iceland Krona ISK 352 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // JAMAICA Jamaican Dollar JMD 388 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // JORDAN Jordanian Dinar JOD 400 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // JAPAN Yen JPY 392 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // KENYA Kenyan Shilling KES 404 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // KYRGYZSTAN Som KGS 417 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // CAMBODIA Riel KHR 116 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // COMOROS(THE) Comoro Franc KMF 174 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // KOREA(THE DEMOCRATIC PEOPLE’ S REPUBLIC OF) North Korean Won KPW 408 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // KOREA(THE REPUBLIC OF) Won KRW 410 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // KUWAIT Kuwaiti Dinar KWD 414 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // CAYMAN ISLANDS(THE) Cayman Islands Dollar KYD 136 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // KAZAKHSTAN Tenge KZT 398 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // LAO PEOPLE’ S DEMOCRATIC REPUBLIC(THE) Kip LAK 418 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // LEBANON Lebanese Pound LBP 422 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SRI LANKA Sri Lanka Rupee LKR 144 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // LIBERIA Liberian Dollar LRD 430 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // LESOTHO Loti LSL 426 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // LIBYA Libyan Dinar LYD 434 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MOROCCO Moroccan Dirham MAD 504 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // WESTERN SAHARA Moroccan Dirham MAD 504 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MOLDOVA(THE REPUBLIC OF) Moldovan Leu MDL 498 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MADAGASCAR Malagasy Ariary MGA 969 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // REPUBLIC OF NORTH MACEDONIA Denar MKD 807 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MYANMAR Kyat MMK 104 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MONGOLIA Tugrik MNT 496 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MACAO Pataca MOP 446 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MAURITANIA Ouguiya MRU 929 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MAURITIUS Mauritius Rupee MUR 480 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MALDIVES Rufiyaa MVR 462 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MALAWI Kwacha MWK 454 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MEXICO Mexican Peso MXN 484 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MEXICO Mexican Unidad de Inversion(UDI) MXV 979 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MALAYSIA Malaysian Ringgit MYR 458 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MOZAMBIQUE Mozambique Metical MZN 943 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NAMIBIA Namibia Dollar NAD 516 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NIGERIA Naira NGN 566 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NICARAGUA Cordoba Oro NIO 558 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // BOUVET ISLAND Norwegian Krone NOK 578 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NORWAY Norwegian Krone NOK 578 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SVALBARD AND JAN MAYEN Norwegian Krone NOK 578 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NEPAL Nepalese Rupee NPR 524 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // COOK ISLANDS(THE) New Zealand Dollar NZD 554 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NEW ZEALAND New Zealand Dollar NZD 554 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NIUE New Zealand Dollar NZD 554 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PITCAIRN New Zealand Dollar NZD 554 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TOKELAU New Zealand Dollar NZD 554 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // OMAN Rial Omani OMR 512 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PANAMA Balboa PAB 590 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PERU Nuevo Sol PEN 604 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PAPUA NEW GUINEA Kina PGK 598 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PHILIPPINES(THE) Philippine Peso PHP 608 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PAKISTAN Pakistan Rupee PKR 586 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // POLAND Zloty PLN 985 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PARAGUAY Guarani PYG 600 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // QATAR Qatari Rial QAR 634 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ROMANIA Romanian Leu RON 946 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SERBIA Serbian Dinar RSD 941 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // RUSSIAN FEDERATION(THE) Russian Ruble RUB 643 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // RWANDA Rwanda Franc RWF 646 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAUDI ARABIA Saudi Riyal SAR 682 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SOLOMON ISLANDS Solomon Islands Dollar SBD 090 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SEYCHELLES Seychelles Rupee SCR 690 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SUDAN(THE) Sudanese Pound SDG 938 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SWEDEN Swedish Krona SEK 752 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SINGAPORE Singapore Dollar SGD 702 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA Saint Helena Pound SHP 654 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SIERRA LEONE Leone SLL 694 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SOMALIA Somali Shilling SOS 706 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SURINAME Surinam Dollar SRD 968 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SOUTH SUDAN South Sudanese Pound SSP 728 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAO TOME AND PRINCIPE Dobra STN 930 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // EL SALVADOR El Salvador Colon SVC 222 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SYRIAN ARAB REPUBLIC Syrian Pound SYP 760 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SWAZILAND Lilangeni SZL 748 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // THAILAND Baht THB 764 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TAJIKISTAN Somoni TJS 972 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TURKMENISTAN Turkmenistan New Manat TMT 934 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TUNISIA Tunisian Dinar TND 788 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TONGA Pa’ anga TOP 776 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TURKEY Turkish Lira TRY 949 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TRINIDAD AND TOBAGO Trinidad and Tobago Dollar TTD 780 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TAIWAN(PROVINCE OF CHINA) New Taiwan Dollar TWD 901 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TANZANIA, UNITED REPUBLIC OF Tanzanian Shilling TZS 834 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // UKRAINE Hryvnia UAH 980 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // UGANDA Uganda Shilling UGX 800 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // AMERICAN SAMOA US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // BONAIRE, SINT EUSTATIUS AND SABA US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // BRITISH INDIAN OCEAN TERRITORY(THE) US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ECUADOR US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // EL SALVADOR US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GUAM US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // HAITI US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MARSHALL ISLANDS(THE) US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MICRONESIA(FEDERATED STATES OF) US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NORTHERN MARIANA ISLANDS(THE) US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PALAU US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PANAMA US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // PUERTO RICO US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TIMOR - LESTE US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // TURKS AND CAICOS ISLANDS(THE) US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // UNITED STATES MINOR OUTLYING ISLANDS(THE) US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // UNITED STATES OF AMERICA(THE) US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // VIRGIN ISLANDS(BRITISH) US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // VIRGIN ISLANDS(U.S.) US Dollar USD 840 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // UNITED STATES OF AMERICA(THE) US Dollar(Next day) USN 997 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // URUGUAY Uruguay Peso en Unidades Indexadas(URUIURUI) UYI 940 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // URUGUAY Peso Uruguayo UYU 858 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // UZBEKISTAN Uzbekistan Sum UZS 860 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // VENEZUELA(BOLIVARIAN REPUBLIC OF) Bolivar VEF 937 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // VIET NAM Dong VND 704 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // VANUATU Vatu VUV 548 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAMOA Tala WST 882 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // CAMEROON CFA Franc BEAC XAF 950 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // CENTRAL AFRICAN REPUBLIC(THE) CFA Franc BEAC XAF 950 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // CHAD CFA Franc BEAC XAF 950 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // CONGO(THE) CFA Franc BEAC XAF 950 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // EQUATORIAL GUINEA CFA Franc BEAC XAF 950 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GABON CFA Franc BEAC XAF 950 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ANGUILLA East Caribbean Dollar XCD 951 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ANTIGUA AND BARBUDA East Caribbean Dollar XCD 951 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // DOMINICA East Caribbean Dollar XCD 951 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // GRENADA East Caribbean Dollar XCD 951 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MONTSERRAT East Caribbean Dollar XCD 951 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAINT KITTS AND NEVIS East Caribbean Dollar XCD 951 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAINT LUCIA East Caribbean Dollar XCD 951 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SAINT VINCENT AND THE GRENADINES East Caribbean Dollar XCD 951 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // INTERNATIONAL MONETARY FUND(IMF) SDR(Special Drawing Right) XDR 960 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // BENIN CFA Franc BCEAO XOF 952 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // BURKINA FASO CFA Franc BCEAO XOF 952 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // CÔTE D 'IVOIRE	CFA Franc BCEAO	XOF	952{
 // "countryName": ,
-// "currancyCode": ,
+// "currencyCode": ,
 // "imgUrl": ,
 // "breadPrice":
 // }
 // GUINEA - BISSAU CFA Franc BCEAO XOF 952 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MALI CFA Franc BCEAO XOF 952 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NIGER(THE) CFA Franc BCEAO XOF 952 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SENEGAL CFA Franc BCEAO XOF 9 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
@@ -1486,73 +1486,73 @@
 // TOGO CFA Franc BCEAO XOF 952
 // FRENCH POLYNESIA CFP Franc XPF 953 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NEW CALEDONIA CFP Franc XPF 953 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // WALLIS AND FUTUNA CFP Franc XPF 953 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS "SUCRE" {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // Sucre XSU 994 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP ADB Unit of Account XUA 965 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // YEMEN Yemeni Rial YER 886 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // LESOTHO Rand ZAR 710 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // NAMIBIA Rand ZAR 710 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // SOUTH AFRICA Rand ZAR 710 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ZAMBIA Zambian Kwacha ZMW 967 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }
 // ZIMBABWE Zimbabwe Dollar ZWL 932 {
 //     "countryName": ,
-//     "currancyCode": ,
+//     "currencyCode": ,
 //     "imgUrl": ,
 //     "breadPrice":
 // }

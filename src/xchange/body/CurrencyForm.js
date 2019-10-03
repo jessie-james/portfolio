@@ -2,13 +2,13 @@ import React from 'react'
 import CountrySelect from './CountrySelect.js'
 import { withGlobal } from './GlobalProvider'
 
-class CurrancyForm extends React.Component {
+class CurrencyForm extends React.Component {
     componentDidMount() {
         this.props.viewed()
     }
     render() {
         return (
-            <form className="currancyform" onSubmit={(e) => this.props.globalSubmit(e, this.props.option1, this.props.option2, this.props.number)}>
+            <form className="currencyform" onSubmit={(e) => this.props.globalSubmit(e, this.props.option1, this.props.option2, this.props.number)}>
                 <input type="number" name='amount' value={this.props.number} placeholder="Amount" onChange={this.props.amountChange}></input>
                 <div className="mobile-form">
                     <CountrySelect type='from' onChange={this.props.handleOptions1} />
@@ -20,4 +20,4 @@ class CurrancyForm extends React.Component {
         )
     }
 }
-export default withGlobal(CurrancyForm)
+export default withGlobal(CurrencyForm)

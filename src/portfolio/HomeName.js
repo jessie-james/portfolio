@@ -7,7 +7,7 @@ const HomeName = () => {
             <div className="home-about-port">
                 <div className="home-text">
                     <h1>Hi, Its Jess,</h1>
-                    <h3>I am a Full-Stack Web Devloper with an eye for UX/UI applications</h3>
+                    <h3>I am a Full-Stack Web Devloper with an eye for UX/UI design</h3>
                 </div>
                 <div className="home-graphic-container">
                     <img src={jesspng} alt="jesspng" className="home-graphic"/>
