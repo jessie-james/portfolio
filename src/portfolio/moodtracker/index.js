@@ -10,7 +10,7 @@ const Moodtracker = () => {
     return (<div className="project-page-container">
         <div className="projectInfo">
             <h1 className="port-body brief">Mood Tracker</h1>
-            <h2><a href="https://rtc-mood-tracker.herokuapp.com/">Try It Out</a></h2>
+            <h2 className="tryMe"><a href="https://rtc-mood-tracker.herokuapp.com/">Try It Out</a></h2>
             <ul className="list">
                 <li className="item">
                     <h3>Built With:</h3>
