@@ -10,6 +10,7 @@ const Moodtracker = () => {
     return (<div className="project-page-container">
         <div className="projectInfo">
             <h1 className="port-body brief">Mood Tracker</h1>
+            <h2><a href="https://rtc-mood-tracker.herokuapp.com/">Try It Out</a></h2>
             <ul className="list">
                 <li className="item">
                     <h3>Built With:</h3>
@@ -26,7 +27,6 @@ const Moodtracker = () => {
                 </li>
             </ul>
             <h2 className="list tryMe">UX/UI user flow cards</h2>
-        
             <div className="case-imgs">
                 <img src={loginimg} alt="loginimg" className="case-img"/>
                 <img src={clientDash} alt="clientDashimg" className="case-img" />
